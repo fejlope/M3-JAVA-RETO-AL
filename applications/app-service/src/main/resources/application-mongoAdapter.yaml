@@ -1,0 +1,5 @@
+mongoConfig:
+  user: ingsw
+  password: !QAZxsw2#EDC
+  connectionString: mongodb://%s:%s@ingsw-shard-00-00-2pem4.mongodb.net:27017,ingsw-shard-00-01-2pem4.mongodb.net:27017,ingsw-shard-00-02-2pem4.mongodb.net:27017/admin?ssl=true&replicaSet=IngSW-shard-0&authSource=admin&retryWrites=true&w=majority
+  database: test

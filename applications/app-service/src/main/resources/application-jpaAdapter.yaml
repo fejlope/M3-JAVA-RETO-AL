@@ -1,0 +1,6 @@
+databaseConfig:
+  driver: org.h2.Driver
+  connectionString: jdbc:h2:mem:testdb
+  secretName: clean-architecture
+  secretRegion: us-east-1
+

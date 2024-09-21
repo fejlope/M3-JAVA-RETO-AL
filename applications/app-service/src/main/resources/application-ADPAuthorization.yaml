@@ -1,0 +1,6 @@
+authorization:
+  activedirectory:
+    client-id: 4dea512e-d265-4ca9-8e0a-4b1e51a97db0
+    client-secret: mP@c7txJRnZBc?CkB1IG/Pkap@7t04X=
+    session-stateless: true
+    active-directory-groups: group1,group2
